@@ -1,12 +1,13 @@
 import React from 'react';
 import Layout from '@/components/Layout';
+import Home from '@/components/Home';
 
-const Home = () => {
+const HomePage = () => {
   return (
-    <div title={'Home'}>
-      <Layout />
-    </div>
+    <Layout>
+      <Home />
+    </Layout>
   );
 };
 
-export default Home;
+export default HomePage;
