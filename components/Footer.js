@@ -61,7 +61,7 @@ const Footer = () => {
 
           <div>
             <h1 className="underline font-bold  text-3xl capitalize flex justify-center">
-              news letter
+             our service
             </h1>
 
             <div className="container mx-auto px-10 flex justify-center">
